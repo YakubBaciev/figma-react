@@ -1,0 +1,25 @@
+.container {
+  width: 100%;
+  display: flex;
+}
+
+ul {
+  color: #003399;
+  list-style-type: none;
+  font-size: 24px;
+  margin-left: 200px;
+  width: 400px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  margin-left: 335px;
+}

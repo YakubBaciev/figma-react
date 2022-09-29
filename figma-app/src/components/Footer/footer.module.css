@@ -1,0 +1,14 @@
+.conteiner{
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 769px;
+  margin-left: 336px;
+}
+.partners{
+  font-size: 16px;
+  color: black;
+  padding: 0;
+  margin: 0;
+}

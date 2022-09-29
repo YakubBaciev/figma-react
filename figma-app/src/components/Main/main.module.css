@@ -1,0 +1,42 @@
+.mainContainer {
+  width: 770px;
+  height: 670px;
+}
+
+.number {
+  margin-left: 335px;
+  width: 585px;
+  height: 318px;
+}
+
+span {
+  margin-left: 93px;
+  font-size: 400px;
+  color: orange;
+}
+.buttoms{
+  margin-top: 100px;
+  margin-left: 335px;
+  display: flex;
+  justify-content: space-between;
+  width: 742px;
+  height: 116px;
+}
+.increase{
+height: 50px;
+width: 150px;
+color:white;
+background-color:blue;
+}
+.decrease{
+height: 50px;
+width: 150px;
+color:white;
+background-color:orange;
+}
+.reset{
+height: 50px;
+width: 150px;
+color:white;
+background-color: grey;
+}
